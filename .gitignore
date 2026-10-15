@@ -1,0 +1,7 @@
+# Dados brutos (mantidos apenas localmente)
+dados/votos/
+dados/locais/
+
+# Arquivos temporários do Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/

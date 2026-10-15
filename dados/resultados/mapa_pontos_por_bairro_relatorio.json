@@ -1,0 +1,9 @@
+{
+  "bairros_exibidos": 898,
+  "bairros_sem_coordenadas": [
+    "CONJUNTO HABITACIONAL TURISTICA"
+  ],
+  "locais_com_coordenadas_invalidas": 13,
+  "metodo_posicionamento": "Mediana da latitude e longitude dos locais únicos de cada bairro.",
+  "percentuais": "Preservados do CSV de resultados; não recalculados."
+}
